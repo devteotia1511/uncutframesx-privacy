@@ -13,4 +13,4 @@ We respect your privacy and are committed to protecting your personal data.
 - To provide app functionality.  
 
 ## Contact Us  
-If you have any questions, contact us at **devteotia1511@gmail.com**.  
+If you have any questions, contact us at ****.  
